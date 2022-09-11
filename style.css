@@ -1,4 +1,8 @@
 body
 {
-
+background-position: center;
+background-size: cover;
+}
+canvas{
+border:2px black groove;
 }
